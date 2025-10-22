@@ -4,4 +4,5 @@ Repozytorium zawiera pliki projektu 1 (baza danych PostgreSQL).
 
 ## Struktura projektu
 - `cw1.sql` – tworzenie schematu, tabel i danych przykładowych oraz komentarze
-- `cw1.1.sql` – zapytania SQL 
+- `cw1.1.sql` – zapytania SQL
+- `cw2.sql`- praca z danymi przestrzennymi
