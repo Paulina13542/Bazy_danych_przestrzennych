@@ -6,4 +6,4 @@ Repozytorium zawiera pliki projektu 1 (baza danych PostgreSQL).
 - `cw1.sql` – tworzenie schematu, tabel i danych przykładowych oraz komentarze
 - `cw1.1.sql` – zapytania SQL
 - `cw2.sql`- praca z danymi przestrzennymi
-  `cw3.sql`- Karlsruhe
+- `cw3.sql`- Karlsruhe
