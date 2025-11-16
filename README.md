@@ -6,4 +6,4 @@ Poniżej przedstawiono poszczególne gałęzie oraz odpowiadające im tematy ćw
 - `cw2.sql`- praca z danymi przestrzennymi
 - `cw3.sql`- Karlsruhe
 - `cw4.pdf` - praca w QGIS
-  
+-`cw5.sql` -  Praca z kolekcjami geometrii i EWKT 
