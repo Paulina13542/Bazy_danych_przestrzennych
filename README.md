@@ -9,4 +9,6 @@ Poniżej przedstawiono poszczególne gałęzie oraz odpowiadające im tematy ćw
 - `cw5.sql` -  Praca z kolekcjami geometrii i EWKT
 - `cw6-7.sql` -  ćwiczenia z PostGIS raster(tutorial)
 - `cw8.sql` - ćwiczenia z PostGIS raster
-- `cw9.fme` -  Praca w środowisku FME i PostGIS 
+- `cw9.fmw` -  Praca w środowisku FME i PostGIS
+- `cw11.fmw` -  Teledetekcja w FME
+- `cw12.fmw` - Analizy sieciowe w FME
