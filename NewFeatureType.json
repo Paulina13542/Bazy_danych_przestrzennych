@@ -1,0 +1,1840 @@
+[
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 50605272,
+		"LINK_ID" : 53189377,
+		"TYPE" : "Hotel",
+		"POI_NAME" : "Betzler",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00739",
+		"LON" : "8.39607",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342288.7470880047, -356123.3911255043 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 50605104,
+		"LINK_ID" : 53189402,
+		"TYPE" : "Hotel",
+		"POI_NAME" : "Gästehaus Alte Münze",
+		"ST_NAME" : "Sophienstraße",
+		"LAT" : "49.00705",
+		"LON" : "8.39111",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342653.3724239237, -356136.1062158017 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 50604934,
+		"LINK_ID" : 931440281,
+		"TYPE" : "Historical Monument",
+		"POI_NAME" : "Stadtpfarrkirche Sankt Stephan",
+		"ST_NAME" : "Erbprinzenstraße",
+		"LAT" : "49.00809",
+		"LON" : "8.39988",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342005.3021218684, -356064.8342424752 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1070067170,
+		"LINK_ID" : 78579196,
+		"TYPE" : "Commuter Rail Station",
+		"POI_NAME" : "Stadtbahn Mühlburger Tor",
+		"ST_NAME" : "Kaiserallee",
+		"LAT" : "49.01055",
+		"LON" : "8.38696",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342929.388452871, -355726.1043354404 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 800766282,
+		"LINK_ID" : 53189331,
+		"TYPE" : "Bookstore",
+		"POI_NAME" : "Stephanus Buchhandlung",
+		"ST_NAME" : "Herrenstraße",
+		"LAT" : "49.00853",
+		"LON" : "8.39791",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342145.7131485495, -356005.9820959954 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 800748202,
+		"LINK_ID" : 53189402,
+		"TYPE" : "Pharmacy",
+		"POI_NAME" : "Leopold-Apotheke",
+		"ST_NAME" : "Sophienstraße",
+		"LAT" : "49.00744",
+		"LON" : "8.38977",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342748.1818872539, -356085.9818815524 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1108398605,
+		"LINK_ID" : 53189377,
+		"TYPE" : "Sporting Goods Store",
+		"POI_NAME" : "Fassbender Tennis & Golf",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00739",
+		"LON" : "8.39607",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342288.7470880047, -356123.3911255043 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1104117072,
+		"LINK_ID" : 811161236,
+		"TYPE" : "Clothing Store",
+		"POI_NAME" : "Boutique Bombay",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00795",
+		"LON" : "8.39446",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342401.9617556175, -356053.0140285825 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1104115629,
+		"LINK_ID" : 53191702,
+		"TYPE" : "Clothing Store",
+		"POI_NAME" : "Hemdenservice Piccobello",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00889",
+		"LON" : "8.39189",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342582.3237598449, -355935.5455328859 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1098053805,
+		"LINK_ID" : 53189365,
+		"TYPE" : "Grocery Store",
+		"POI_NAME" : "KODi",
+		"ST_NAME" : "Sophienstraße",
+		"LAT" : "49.00752",
+		"LON" : "8.38921",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342788.4403292608, -356074.257195101 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1108706028,
+		"LINK_ID" : 811161236,
+		"TYPE" : "Specialty Store",
+		"POI_NAME" : "Red Box Hairstore",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00801",
+		"LON" : "8.39428",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342414.6391262828, -356045.4355698354 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1132034811,
+		"LINK_ID" : 53189412,
+		"TYPE" : "Sporting Goods Store",
+		"POI_NAME" : "Rad + Tat",
+		"ST_NAME" : "Waldstraße",
+		"LAT" : "49.00714",
+		"LON" : "8.39253",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342549.039683916, -356133.2841115236 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1039782030,
+		"LINK_ID" : 807858202,
+		"TYPE" : "Grocery Store",
+		"POI_NAME" : "Nah und Gut Arivo",
+		"ST_NAME" : "Hertzstraße",
+		"LAT" : "49.01708",
+		"LON" : "8.36245",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -344667.7669549254, -354875.9867439574 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1165961640,
+		"LINK_ID" : 808221715,
+		"TYPE" : "Home Specialty Store",
+		"POI_NAME" : "Küche & Co Karlsruhe",
+		"ST_NAME" : "Reinhold-Frank-Straße",
+		"LAT" : "49.01152",
+		"LON" : "8.38757",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342877.4200287594, -355621.3819324478 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 801782356,
+		"LINK_ID" : 53179814,
+		"TYPE" : "Pharmacy",
+		"POI_NAME" : "Drais-Apotheke",
+		"ST_NAME" : "Moltkestraße",
+		"LAT" : "49.01749",
+		"LON" : "8.36775",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -344277.8596438525, -354857.3557537078 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1104303609,
+		"LINK_ID" : 53189412,
+		"TYPE" : "Clothing Store",
+		"POI_NAME" : "MARCCAIN",
+		"ST_NAME" : "Waldstraße",
+		"LAT" : "49.0077",
+		"LON" : "8.39359",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342467.3775008716, -356076.4024234601 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1108687008,
+		"LINK_ID" : 53189331,
+		"TYPE" : "Specialty Store",
+		"POI_NAME" : "Gerald-Coiffure",
+		"ST_NAME" : "Herrenstraße",
+		"LAT" : "49.00829",
+		"LON" : "8.3977",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342162.8796526163, -356031.596010511 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1108687004,
+		"LINK_ID" : 53189357,
+		"TYPE" : "Specialty Store",
+		"POI_NAME" : "Haargalerie T. Benz",
+		"ST_NAME" : "Bürgerstraße",
+		"LAT" : "49.00819",
+		"LON" : "8.39615",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342276.7746750971, -356034.8798905447 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1108686994,
+		"LINK_ID" : 53189332,
+		"TYPE" : "Specialty Store",
+		"POI_NAME" : "Schöne Haare Karlsruhe",
+		"ST_NAME" : "Blumenstraße",
+		"LAT" : "49.00828",
+		"LON" : "8.39659",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342243.9708183493, -356027.1000049617 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1108686601,
+		"LINK_ID" : 53189412,
+		"TYPE" : "Specialty Store",
+		"POI_NAME" : "Donato Hair Creations",
+		"ST_NAME" : "Waldstraße",
+		"LAT" : "49.00699",
+		"LON" : "8.39236",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342562.5983838448, -356149.0961658651 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1108686600,
+		"LINK_ID" : 53189412,
+		"TYPE" : "Specialty Store",
+		"POI_NAME" : "A + M Friseur",
+		"ST_NAME" : "Waldstraße",
+		"LAT" : "49.00778",
+		"LON" : "8.39373",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342456.5457399631, -356068.2186041116 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1108686583,
+		"LINK_ID" : 53191702,
+		"TYPE" : "Specialty Store",
+		"POI_NAME" : "Salon Headline",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00889",
+		"LON" : "8.39189",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342582.3237598449, -355935.5455328859 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1108686584,
+		"LINK_ID" : 53191702,
+		"TYPE" : "Specialty Store",
+		"POI_NAME" : "Salon Ruppel",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00884",
+		"LON" : "8.3919",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342581.977569113, -355941.1533119847 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1108686604,
+		"LINK_ID" : 53189402,
+		"TYPE" : "Specialty Store",
+		"POI_NAME" : "Seki-Hair",
+		"ST_NAME" : "Sophienstraße",
+		"LAT" : "49.00696",
+		"LON" : "8.39127",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342642.3850765047, -356146.9184037508 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 800763380,
+		"LINK_ID" : 53189332,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "Trattoria Toscana",
+		"ST_NAME" : "Blumenstraße",
+		"LAT" : "49.00828",
+		"LON" : "8.39659",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342243.9708183493, -356027.1000049617 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 800760880,
+		"LINK_ID" : 53189412,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "Pomodoro",
+		"ST_NAME" : "Waldstraße",
+		"LAT" : "49.00721",
+		"LON" : "8.39274",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342533.1753038185, -356126.5658092988 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 800748746,
+		"LINK_ID" : 53189331,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "Syrtaki",
+		"ST_NAME" : "Herrenstraße",
+		"LAT" : "49.00832",
+		"LON" : "8.39767",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342164.8392963482, -356028.1101426617 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1039210459,
+		"LINK_ID" : 53189412,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "Cafe Extrablatt",
+		"ST_NAME" : "Waldstraße",
+		"LAT" : "49.00763",
+		"LON" : "8.39337",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342483.9715261433, -356083.0703489092 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1039210485,
+		"LINK_ID" : 53191702,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "Central Imbiss",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00884",
+		"LON" : "8.3919",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342581.977569113, -355941.1533119847 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 57540923,
+		"LINK_ID" : 53189358,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "La Strada-Pasta Pasta",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.0077",
+		"LON" : "8.39518",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342351.3286124225, -356084.4389976458 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1193011622,
+		"LINK_ID" : 53189412,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "Portale 50",
+		"ST_NAME" : "Waldstraße",
+		"LAT" : "49.00748",
+		"LON" : "8.39312",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342503.3688942044, -356098.4780960049 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1193011544,
+		"LINK_ID" : 807858986,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "Kolo City Pizza & Kebaphaus",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00895",
+		"LON" : "8.39156",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342605.9483248063, -355927.2080707269 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 57540924,
+		"LINK_ID" : 807858987,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "Punjab",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00957",
+		"LON" : "8.38989",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342723.0734754066, -355849.8518823019 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1193013391,
+		"LINK_ID" : 53179612,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "La Brace",
+		"ST_NAME" : "Hertzstraße",
+		"LAT" : "49.02353",
+		"LON" : "8.366",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -344358.974490341, -354177.157003516 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1039243398,
+		"LINK_ID" : 53179853,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "Bistro Harlekin",
+		"ST_NAME" : "Kärcherstraße",
+		"LAT" : "49.01609",
+		"LON" : "8.36228",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -344687.8123323687, -354985.1542787806 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1039243132,
+		"LINK_ID" : 53189402,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "Heilige Sophie",
+		"ST_NAME" : "Sophienstraße",
+		"LAT" : "49.00696",
+		"LON" : "8.39127",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342642.3850765047, -356146.9184037508 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1039243141,
+		"LINK_ID" : 53189365,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "Pizzeria Centrale",
+		"ST_NAME" : "Sophienstraße",
+		"LAT" : "49.00752",
+		"LON" : "8.38921",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342788.4403292608, -356074.257195101 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1039243142,
+		"LINK_ID" : 53189365,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "Shiraz",
+		"ST_NAME" : "Sophienstraße",
+		"LAT" : "49.00764",
+		"LON" : "8.38751",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342911.595995202, -356052.3173932983 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1193028461,
+		"LINK_ID" : 53189357,
+		"TYPE" : "Restaurant",
+		"POI_NAME" : "Pizza & Gusto",
+		"ST_NAME" : "Bürgerstraße",
+		"LAT" : "49.00805",
+		"LON" : "8.39595",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342292.4452944922, -356049.4295308812 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1131716845,
+		"LINK_ID" : 999128963,
+		"TYPE" : "Park/Recreation Area",
+		"POI_NAME" : "Tennisclub Karlsruhe-West",
+		"ST_NAME" : "Berliner Straße",
+		"LAT" : "49.02253",
+		"LON" : "8.36373",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -344532.3133209039, -354276.7628440461 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1131716846,
+		"LINK_ID" : 999128960,
+		"TYPE" : "Park/Recreation Area",
+		"POI_NAME" : "Sportgemeinschaft Siemens Karlsruhe",
+		"ST_NAME" : "Hertzstraße",
+		"LAT" : "49.02616",
+		"LON" : "8.36565",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -344364.2244458474, -353883.0707770829 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1131716848,
+		"LINK_ID" : 53179612,
+		"TYPE" : "Park/Recreation Area",
+		"POI_NAME" : "Karlsruher Fußball-Club West 1932",
+		"ST_NAME" : "Hertzstraße",
+		"LAT" : "49.02365",
+		"LON" : "8.366",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -344358.0489451358, -354163.8197733145 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1112532962,
+		"LINK_ID" : 53189382,
+		"TYPE" : "Parking Garage/House",
+		"POI_NAME" : "Badische Landesbibliothek (BLB)",
+		"ST_NAME" : "Ritterstraße",
+		"LAT" : "49.0074",
+		"LON" : "8.39945",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342041.9730556748, -356139.3526779143 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 50610381,
+		"LINK_ID" : 53191350,
+		"TYPE" : "Parking Garage/House",
+		"POI_NAME" : "Ludwigsplatz",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00757",
+		"LON" : "8.39568",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342315.8319862795, -356101.4144754528 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 57562592,
+		"LINK_ID" : 1198329790,
+		"TYPE" : "Parking Garage/House",
+		"POI_NAME" : "Postgalerie",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00824",
+		"LON" : "8.39374",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342452.2875141431, -356017.1427952189 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 50610440,
+		"LINK_ID" : 53189275,
+		"TYPE" : "Parking Garage/House",
+		"POI_NAME" : "Parkhaus Stephanplatz",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00845",
+		"LON" : "8.39304",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342501.7666220868, -355990.2637237489 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1178852284,
+		"LINK_ID" : 53189357,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Prof. Dr. med. Uwe Müllerbühl",
+		"ST_NAME" : "Bürgerstraße",
+		"LAT" : "49.00796",
+		"LON" : "8.39574",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342308.4624858691, -356058.3713840529 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1178852615,
+		"LINK_ID" : 53189357,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Evgenij Malysev",
+		"ST_NAME" : "Bürgerstraße",
+		"LAT" : "49.00796",
+		"LON" : "8.39574",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342308.4624858691, -356058.3713840529 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1178851649,
+		"LINK_ID" : 53189402,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. med. Beate Weinschenk",
+		"ST_NAME" : "Sophienstraße",
+		"LAT" : "49.00744",
+		"LON" : "8.38977",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342748.1818872539, -356085.9818815524 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1207963190,
+		"LINK_ID" : 807858986,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Zahnarztpraxis Michael Weiland",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00927",
+		"LON" : "8.39064",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342670.6382141694, -355886.9889362623 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1210891400,
+		"LINK_ID" : 53189358,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Leokadia Seidler",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00779",
+		"LON" : "8.395",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342363.7760686427, -356073.526333647 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1211309823,
+		"LINK_ID" : 53189412,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dipl.Psych. Wolfgang Friedebach",
+		"ST_NAME" : "Waldstraße",
+		"LAT" : "49.00727",
+		"LON" : "8.39285",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342524.6864030481, -356120.453315746 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1211309940,
+		"LINK_ID" : 53191702,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dipl.Psych. Uschi Timmwinkmann",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00878",
+		"LON" : "8.39207",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342570.0305111568, -355948.6816123594 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1211310597,
+		"LINK_ID" : 53191702,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. Dipl.Psych. Ingeborg Kraus",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00878",
+		"LON" : "8.39207",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342570.0305111568, -355948.6816123594 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1211262263,
+		"LINK_ID" : 807858986,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. Gerd Schaufelberger",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00927",
+		"LON" : "8.39064",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342670.6382141694, -355886.9889362623 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1211262727,
+		"LINK_ID" : 53189365,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. Medic. Stom. (R) Nikolaus Lahr",
+		"ST_NAME" : "Sophienstraße",
+		"LAT" : "49.00751",
+		"LON" : "8.38921",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342788.5170986193, -356075.3686365091 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1211262551,
+		"LINK_ID" : 53189402,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Tatjana Schüz",
+		"ST_NAME" : "Sophienstraße",
+		"LAT" : "49.00744",
+		"LON" : "8.38977",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342748.1818872539, -356085.9818815524 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1210922249,
+		"LINK_ID" : 53189357,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Markus Boldyreff",
+		"ST_NAME" : "Bürgerstraße",
+		"LAT" : "49.00816",
+		"LON" : "8.39603",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342285.7630192964, -356037.6078863042 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1210921526,
+		"LINK_ID" : 53189275,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. med. Ulrich Janosovits",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00844",
+		"LON" : "8.39303",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342502.573191821, -355991.3246087838 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1210918666,
+		"LINK_ID" : 53189357,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. med. Andreas Scherer",
+		"ST_NAME" : "Bürgerstraße",
+		"LAT" : "49.00796",
+		"LON" : "8.39574",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342308.4624858691, -356058.3713840529 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1210918894,
+		"LINK_ID" : 53189357,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. med. Konradmartin Schultz",
+		"ST_NAME" : "Bürgerstraße",
+		"LAT" : "49.00796",
+		"LON" : "8.39574",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342308.4624858691, -356058.3713840529 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1210918839,
+		"LINK_ID" : 811161236,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. Phil. Christian Kürschner",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00801",
+		"LON" : "8.39427",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342415.3689888853, -356045.3850243569 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1210918479,
+		"LINK_ID" : 53189357,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. med. Thomas Klaas",
+		"ST_NAME" : "Bürgerstraße",
+		"LAT" : "49.00796",
+		"LON" : "8.39574",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342308.4624858691, -356058.3713840529 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1210918552,
+		"LINK_ID" : 53189357,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. Tilmann Wilde",
+		"ST_NAME" : "Bürgerstraße",
+		"LAT" : "49.00796",
+		"LON" : "8.39574",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342308.4624858691, -356058.3713840529 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1210917306,
+		"LINK_ID" : 53189402,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Zahnärztliche Fortbildung Karlsruhe",
+		"ST_NAME" : "Sophienstraße",
+		"LAT" : "49.00711",
+		"LON" : "8.39079",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342676.2679333892, -356127.8190692448 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1210917306,
+		"LINK_ID" : 53189402,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Akademie für Zahnärztliche Fortbildung Karlsruhe",
+		"ST_NAME" : "Sophienstraße",
+		"LAT" : "49.00711",
+		"LON" : "8.39079",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342676.2679333892, -356127.8190692448 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1211385377,
+		"LINK_ID" : 1198329789,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dipl.Psych. Manfred Schmitt",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00814",
+		"LON" : "8.3939",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342441.3767847713, -356029.0660190494 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1210916977,
+		"LINK_ID" : 53189085,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. med. Michaela Lorenz",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.01022",
+		"LON" : "8.38789",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342864.0492571387, -355767.4887431393 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1210917003,
+		"LINK_ID" : 53189275,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. med. Jörg Decker",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00844",
+		"LON" : "8.39303",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342502.573191821, -355991.3246087838 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1210917581,
+		"LINK_ID" : 53189085,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Yu Jun Huang",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.01022",
+		"LON" : "8.38789",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342864.0492571387, -355767.4887431393 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1210917457,
+		"LINK_ID" : 53179853,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. med. Ute Wilms",
+		"ST_NAME" : "Kärcherstraße",
+		"LAT" : "49.01598",
+		"LON" : "8.36291",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -344642.6885991807, -355000.5836605247 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1210917473,
+		"LINK_ID" : 53189085,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. Medic. Manuelanarcisa Ghidersa",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.01022",
+		"LON" : "8.38789",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342864.0492571387, -355767.4887431393 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1210918211,
+		"LINK_ID" : 53189357,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. med. Lothar Leppertsaumer",
+		"ST_NAME" : "Bürgerstraße",
+		"LAT" : "49.00796",
+		"LON" : "8.39574",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342308.4624858691, -356058.3713840529 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1210918174,
+		"LINK_ID" : 1198329789,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Peterpaul Tarne",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00814",
+		"LON" : "8.3939",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342441.3767847713, -356029.0660190494 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1210918219,
+		"LINK_ID" : 53189358,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. Andrea Raufeisen",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00779",
+		"LON" : "8.395",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342363.7760686427, -356073.526333647 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1210917908,
+		"LINK_ID" : 811161236,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. med. Christine Jung",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00801",
+		"LON" : "8.39427",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342415.3689888853, -356045.3850243569 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1210917985,
+		"LINK_ID" : 53189357,
+		"TYPE" : "Medical Service",
+		"POI_NAME" : "Dr. med. Hans Bürkle",
+		"ST_NAME" : "Bürgerstraße",
+		"LAT" : "49.00796",
+		"LON" : "8.39574",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342308.4624858691, -356058.3713840529 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1017154916,
+		"LINK_ID" : 811161236,
+		"TYPE" : "ATM",
+		"POI_NAME" : "Isbank",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00801",
+		"LON" : "8.39428",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342414.6391262828, -356045.4355698354 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1017154917,
+		"LINK_ID" : 811161236,
+		"TYPE" : "Bank",
+		"POI_NAME" : "Isbank",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00801",
+		"LON" : "8.39428",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342414.6391262828, -356045.4355698354 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1148908265,
+		"LINK_ID" : 807858986,
+		"TYPE" : "Nightlife",
+		"POI_NAME" : "Brasil",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.009",
+		"LON" : "8.39155",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342606.2944881155, -355921.6002887837 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 57561520,
+		"LINK_ID" : 807858986,
+		"TYPE" : "Nightlife",
+		"POI_NAME" : "Casino Royal Spielcenter",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00917",
+		"LON" : "8.39094",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342649.5104196292, -355899.6207243951 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 57552921,
+		"LINK_ID" : 53183854,
+		"TYPE" : "Higher Education",
+		"POI_NAME" : "Universität Fridericiana",
+		"ST_NAME" : "Hertzstraße",
+		"LAT" : "49.02228",
+		"LON" : "8.36598",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -344370.0747544185, -354315.9848497441 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 898521667,
+		"LINK_ID" : 53188572,
+		"TYPE" : "School",
+		"POI_NAME" : "Erich Kästner Schule",
+		"ST_NAME" : "Moltkestraße",
+		"LAT" : "49.01897",
+		"LON" : "8.36579",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -344409.4672950958, -354682.9045405839 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1005231203,
+		"LINK_ID" : 53183854,
+		"TYPE" : "School",
+		"POI_NAME" : "Kath. Kindergarten St. Konrad",
+		"ST_NAME" : "Hertzstraße",
+		"LAT" : "49.02228",
+		"LON" : "8.36598",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -344370.0747544185, -354315.9848497441 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1017621219,
+		"LINK_ID" : 931440281,
+		"TYPE" : "Library",
+		"POI_NAME" : "Badische Landesbibliothek",
+		"ST_NAME" : "Erbprinzenstraße",
+		"LAT" : "49.00834",
+		"LON" : "8.39897",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342069.8041470255, -356032.4530540509 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1165846659,
+		"LINK_ID" : 53179612,
+		"TYPE" : "Place of Worship",
+		"POI_NAME" : "Kirche Sankt Konrad",
+		"ST_NAME" : "Hertzstraße",
+		"LAT" : "49.02323",
+		"LON" : "8.36605",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -344357.6402432253, -354210.7541569342 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 800761855,
+		"LINK_ID" : 931440281,
+		"TYPE" : "Place of Worship",
+		"POI_NAME" : "Stadtpfarrkirche Sankt Stephan",
+		"ST_NAME" : "Erbprinzenstraße",
+		"LAT" : "49.00809",
+		"LON" : "8.39988",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342005.3021218684, -356064.8342424752 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 1039815347,
+		"LINK_ID" : 78579196,
+		"TYPE" : "Place of Worship",
+		"POI_NAME" : "Christuskirche",
+		"ST_NAME" : "Kaiserallee",
+		"LAT" : "49.01059",
+		"LON" : "8.38695",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342929.8110489862, -355721.6079559244 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1017621205,
+		"LINK_ID" : 53188846,
+		"TYPE" : "Court House",
+		"POI_NAME" : "Verwaltungsgericht Karlsruhe",
+		"ST_NAME" : "Nördliche Hildapromenade",
+		"LAT" : "49.01274",
+		"LON" : "8.38418",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -343115.4485835779, -355468.6239837758 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "61",
+		"POI_ID" : 1017621239,
+		"LINK_ID" : 53180056,
+		"TYPE" : "Court House",
+		"POI_NAME" : "Oberlandesgericht Karlsruhe",
+		"ST_NAME" : "Hoffstraße",
+		"LAT" : "49.01271",
+		"LON" : "8.38462",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -343083.5684986502, -355474.1864678746 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"x" : 8.360930442810059,
+		"y" : 49.03173828125,
+		"_total_cost" : "4624.099089844143",
+		"POI_ID" : 800841281,
+		"LINK_ID" : 807858986,
+		"TYPE" : "Petrol/Gasoline Station",
+		"POI_NAME" : "ARAL",
+		"ST_NAME" : "Amalienstraße",
+		"LAT" : "49.00914",
+		"LON" : "8.39103",
+		"_predicate" : "CONTAINS",
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -342643.1720627118, -355903.4102441031 ]
+		}
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Z_Kosztami",
+		"_length" : {
+			"total_count" : "170",
+			"mean" : 6076.541694106993
+		},
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]"
+	},
+	{
+		"json_featuretype" : "NewFeatureType",
+		"Wariant" : "Bez_Kosztow",
+		"_length" : {
+			"total_count" : "239",
+			"mean" : 4624.0990898441505
+		},
+		"json_ogc_wkt_crs" : "PROJCS[\"DHDN / Soldner Berlin\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6314\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",52.4186482777778],PARAMETER[\"central_meridian\",13.6272036666667],PARAMETER[\"false_easting\",40000],PARAMETER[\"false_northing\",10000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3068\"]]"
+	}
+]
